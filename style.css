@@ -1,6 +1,14 @@
 *{
         background-color: azure;
 }
+h1{
+        font-size: 100px;
+        background: transparent;
+        color: aqua;
+        text-align: center;
+        padding-top: 250px;
+        font-family: Arial, Helvetica, sans-serif;
+}
 .div1{
         background-image: url("https://images.unsplash.com/photo-1509023464722-18d996393ca8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80");
         width: 1350px;
@@ -62,7 +70,7 @@
         box-shadow: -2px 2px 4px black;
 }
 .div7{
-        background-image: url("https://images.unsplash.com/photo-1499428665502-503f6c608263?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80");
+        background-image: url("https://images.unsplash.com/photo-1445813792994-1d804a9453c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1245&q=80");
         width: 1350px;
         height: 550px;
         position: sticky;
@@ -92,7 +100,7 @@
         box-shadow: -2px 2px 4px black;
 }
 .div10{
-        background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/12179.png");
+        background-image: url("https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80");
         width: 1350px;
         height: 550px;
         position: sticky;
